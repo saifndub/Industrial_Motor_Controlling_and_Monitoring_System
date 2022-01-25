@@ -1,5 +1,5 @@
 # Industrial_Motor_Controlling_and_Monitoring_System
-This is an arduino based simple wireless networking project in which we can control different types of motor in a system.  
+This is an arduino based simple networking project in which we can control different types of motor in a system.  
 <br>
 
 [<img src="0_Images/Full_Project.jpg" width="500" align="left">](0_Images/Full_Project.jpg)
